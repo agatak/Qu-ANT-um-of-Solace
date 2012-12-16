@@ -1,6 +1,6 @@
 clear all
 
-cd('C:\Users\Agata\Desktop\Mrowki')
+ %cd('C:\Users\Agata\Desktop\Mrowki')
 
 % define length of simulation
 end_time=1005;
